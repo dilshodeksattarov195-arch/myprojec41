@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "validatorpender",
+        "uuid": 84296,
+        "checksum": "ylk3z"
+    },
+    "settings": {
+        "retries": 4,
+        "enabled": true,
+        "mode": "production"
+    }
+}
